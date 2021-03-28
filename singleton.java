@@ -22,5 +22,6 @@ class second
     {
         singleton j = singleton.getInstance();
         System.out.println("changing the code with git");
+        System.out.println("changing the code second time");
     }
 }
