@@ -21,7 +21,6 @@ class second
     public static void main(String args[])
     {
         singleton j = singleton.getInstance();
-        System.out.println("changing the code with git");
-        System.out.println("changing the code second time");
+        System.out.println("removed the printing of all the useless lines made due to git");
     }
 }
